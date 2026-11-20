@@ -6,10 +6,10 @@ Previously a software engineer at TikTok (Global E-Commerce), building the TikTo
 I did my master's at UCLA and my undergrad at Shanghai Jiao Tong University.
 
 **What I work on**
-- LLM Alignment & Reasoning
-- Continual Learning of Language Agents
-- Software Architecture of AI Systems
-- Accountable and Responsible AI
+- Reinforcement Learning for LLM Reasoning & Post-Training
+- Self-Improving and Continual-Learning Agents
+- Reliable AI Agents for Software Engineering
+- Evaluation, Monitoring & Oversight of AI Systems
 
 **Recent work**
 - *Unlocking the Unsolvable: Teacher-Guided Curriculum for Data-Efficient RLVR*, Findings of EMNLP 2026 · [Paper](https://aclanthology.org/2026.findings-emnlp.931/) · [arXiv](https://arxiv.org/abs/2609.13997)
