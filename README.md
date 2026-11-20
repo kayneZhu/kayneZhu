@@ -16,4 +16,4 @@ I did my master's at UCLA and my undergrad at Shanghai Jiao Tong University.
 - *A Physics-Guided Learning Framework for Accurate and Generalizable EDFA Gain Spectrum Modeling with FourierKAN*, Journal of Lightwave Technology 2026 (invited, OFC 2026 ML Challenge 1st Place) · [Paper](https://ieeexplore.ieee.org/document/11797531)
 
 **Find me**
-[Homepage](https://kaynezhu.github.io/) · [LinkedIn](https://www.linkedin.com/in/yukang-zhu-b33a6a250/) · zhuyukang2000@gmail.com
+[Homepage](https://kaynezhu.github.io/) · [LinkedIn](https://www.linkedin.com/in/yukang-zhu-b33a6a250/) · zhuyukang2000@gmail.com · yukangzhu2000@163.com · yukangzhu@g.ucla.edu
