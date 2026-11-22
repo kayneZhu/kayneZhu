@@ -2,7 +2,7 @@
 
 Researcher in LLM reasoning & agents, and software engineer.
 Currently a research intern at Westlake University in Hangzhou, advised by [Tailin Wu](https://tailin.org/).
-Previously a software engineer at TikTok (Global E-Commerce), building the TikTok Shop Seller Center and the agent infrastructure behind its LLM features.
+Previously a software engineer at TikTok (Global E-Commerce).
 I did my master's at UCLA and my undergrad at Shanghai Jiao Tong University.
 
 **What I work on**
